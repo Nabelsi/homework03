@@ -1,0 +1,35 @@
+.special{
+    color: red;
+    
+}
+#span-control{
+    color: blue;
+    background-color: pink;
+}
+
+
+a:hover {
+    background-color: cyan;
+  }
+a:focus {
+    width: 250px;
+    background-color: cyan;
+  }
+
+
+#continue{
+      font-size:larger;
+
+
+  }
+  
+.strblue{
+    color: blue;
+
+  }
+  a[href*="shortkidstories"] {
+    background-color: violet;
+  }
+  a[href*="mermaid"] {
+    background-color: cyan;
+  }
